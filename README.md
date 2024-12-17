@@ -21,6 +21,13 @@ Version Control: Git, GitHub
 <hr>
 
 # Installation
+
+<h3>Prerequisites</h3>
+<ul>
+<li>Java Development Kit (JDK) 17 or later : https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html</li>
+<li>Maven (for dependency management) : https://maven.apache.org/download.cgi</li>
+<li>Postman (for API testing):https://www.postman.com/downloads/?%252525252F=undefined&%25252525252F=undefined </li>
+</ul>
 Steps to Run the Project Locally<br>
 <b>1. Clone the Repository:</b><br>
 Open your terminal or command prompt and run:
